@@ -1,1 +1,1 @@
-const availableImg = ["Beck2016Visual"];
+const availableImg = ["taxonomy","high_branching_factor","Beck2016Visual","dipblue","threat_based_AI_boardgames","multi_agent_systems_boardgames","multi_agent_risk_bots","darkblade","monte_carlo_search_gameAI","efficient_reasoning"];
